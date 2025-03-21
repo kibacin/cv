@@ -2,7 +2,7 @@ div
 {
     border-radius: 5px;
     }
-#header
+header
 {
     position: fixed;
     z-index: 1;
@@ -12,7 +12,7 @@ div
     margin-bottom: 10px
     }
 
-#name {
+name {
     float:left;
 	margin-left: 20px;
 	padding-bottom: 10px;
@@ -21,7 +21,7 @@ div
 	color: #ffffff;
 }
 
-#email{
+email{
     float:right;
     margin-right: 20px;
 	padding-bottom: 10px;
@@ -30,7 +30,7 @@ div
 	color: #ffffff;
 }
 
-#contact
+contact
 {
     margin-left:45%;
     padding-bottom: 10px;
@@ -65,7 +65,7 @@ a:hover {
     background-color: #4160E8;
     }*/
     
-#footer
+footer
 {
     height:40px;
     clear:both;
@@ -78,7 +78,7 @@ h3
     text-decoration: underline;
     }
 
-#job-responsibilities
+job-responsibilities
 {
     padding: 1px;
     }
@@ -96,17 +96,17 @@ td
     border: 1px solid #E88741;
     }
 
-#course-name
+course-name
 {
     font-weight:bold;
     }
 
-#company-name
+company-name
 {
     height:2px;
     text-decoration:underline;
     }
-#job-title
+job-title
 {
     height: 5px;
     }
@@ -114,7 +114,7 @@ td
 {
     float:right;
     }
-#heading
+heading
 {
     font-weight:bold;
     }
